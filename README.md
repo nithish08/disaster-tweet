@@ -1,8 +1,2 @@
----
-noteId: "6c3f9b409a1511eaba818d7375aabd6f"
-tags: []
-
----
-
-# disaster-tweet
+# [disaster-tweet](https://www.kaggle.com/c/nlp-getting-started)
 Predict which Tweets are about real disasters and which ones are not
